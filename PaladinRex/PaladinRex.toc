@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Paladin Rex
+## Notes: Paladin : mode PvE (bénédictions par classe, auras, fureur vertueuse, sceau, une touche pour tout rebuffer), mode JcJ (contrôles, défensifs, alertes), menace et bulles d'urgence.
+## Author: Varendel
+## Version: 1.4
+## X-Website: https://github.com/Varendel/PaladinRex
+## SavedVariablesPerCharacter: PaladinRexDB
+
+PaladinRex.lua
+PvP.lua
+Menace.lua
+Bulles.lua

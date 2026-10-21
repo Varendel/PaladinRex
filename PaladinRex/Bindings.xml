@@ -1,0 +1,26 @@
+<Bindings>
+  <Binding name="CLICK PaladinRexBouton:LeftButton" header="PALADINREX"></Binding>
+  <Binding name="CLICK PaladinRexProvocation:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexDefense:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexBulle1:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexBulle2:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexBulle3:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Marteau:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Repentir:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Courroux:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Bouclier:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Liberte:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Liberte:RightButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Protection:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Protection:RightButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Epuration:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Epuration:RightButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Imposition:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Imposition:RightButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Horion:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Horion:RightButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Sacrifice:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Vengeur:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Maitrise:LeftButton"></Binding>
+  <Binding name="CLICK PaladinRexPvP_Faveur:LeftButton"></Binding>
+</Bindings>
